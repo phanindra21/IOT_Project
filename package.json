@@ -1,0 +1,11 @@
+{
+  "name": "fidiot",
+  "version": "1.0.0",
+  "description": "iot rfid",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
